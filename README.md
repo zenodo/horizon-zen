@@ -11,3 +11,7 @@
 - A workflow to identify a Zenodo user as an EC programme beneficiary.
 - A data curation framework that incentivizes programme beneficaries to curate the Zenodo-community supported by automated checks to harmonize curation across beneficaries.
 - Integration of FAIR assessment using third-party tools into the deposit form of Zenodo including support for discipline specific metadata/vocabularies.
+
+### Work plan
+
+![Work plan](work-plan.png)
