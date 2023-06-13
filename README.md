@@ -5,6 +5,13 @@
 - Call: HORIZON-INFRA-2023-EOSC-REP-ART195-IBA
 - Project ID: 101122956
 
+### Collaboation tools
+
+- [Projects](https://github.com/zenodo/horizon-zen/projects?query=is%3Aopen) ([work plan](https://github.com/orgs/zenodo/projects/33), [user stories](https://github.com/orgs/zenodo/projects/38), [decision log](https://github.com/orgs/zenodo/projects/34)) 
+- [Meetings (Indico)](https://indico.cern.ch/category/17009/) (restricted access)
+
+Need access? Contact [lars.holm.nielsen@cern.ch](mailto:lars.holm.nielsen@cern.ch)
+
 ### Expected results
 
 - A new Zenodo-community, named EU Open Research (EOR) for the EC's programme beneficaries, with a) support for subcommunities for EU-projects and b) identification of programme beneficaries.
