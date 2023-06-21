@@ -22,7 +22,7 @@ Need access? Contact [lars.holm.nielsen@cern.ch](mailto:lars.holm.nielsen@cern.c
 
 ### Expected results
 
-- A new Zenodo-community, named EU Open Research (EOR) for the EC's programme beneficaries, with a) support for subcommunities for EU-projects and b) identification of programme beneficaries.
+- A new Zenodo-community for the EC's programme beneficaries with a) support for subcommunities for EU-projects and b) identification of programme beneficaries c) visual branding of the EC.
 - A workflow to identify a Zenodo user as an EC programme beneficiary.
 - A data curation framework that incentivizes programme beneficaries to curate the Zenodo-community supported by automated checks to harmonize curation across beneficaries.
 - Integration of FAIR assessment using third-party tools into the deposit form of Zenodo including support for discipline specific metadata/vocabularies.
