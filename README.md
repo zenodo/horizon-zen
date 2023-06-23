@@ -10,6 +10,7 @@
 - [Projects](https://github.com/zenodo/horizon-zen/projects?query=is%3Aopen) ([work plan](https://github.com/orgs/zenodo/projects/33), [user stories](https://github.com/orgs/zenodo/projects/38), [decision log](https://github.com/orgs/zenodo/projects/34), [risks](https://github.com/orgs/zenodo/projects/36), [stakeholders](https://github.com/orgs/zenodo/projects/37)) 
 - [Meetings (Indico)](https://indico.cern.ch/category/17009/) (restricted access)
 - [Repository (Zenodo-community)](https://zenodo.org/communities/horizon-zen/)
+- [Google Docs](http://drive.google.com/drive/u/0/folders/1iKUwst8wYxP2HLkpGi48flQkLrMjZiTN)
 - [project-horizon-zen@cern.ch](mailto:project-horizon-zen@cern.ch)
 
 Need access? Contact [lars.holm.nielsen@cern.ch](mailto:lars.holm.nielsen@cern.ch)
